@@ -1,6 +1,7 @@
-import ProductCard from "./partial/productCard";
+
 import CartItems from "./partial/CartItems";
 import style from "../App.module.css";
+import ProductCard from "./partial/ProductCard";
 
 
 const ProductList = () => {
